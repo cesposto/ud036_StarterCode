@@ -13,5 +13,7 @@ to the trailer for each movie.
 ## Files:
 
 media.py - contains the Movie class
+
 entertainment_center.py - Code to build movie database
+
 fresh_tomatoes.py - Code to construct webpage
